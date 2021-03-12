@@ -14,17 +14,12 @@
 - A saída contém uma linha, que pode ser “Senha valida.”, caso a senha tenha cada item dos requisitos solicitados anteriormente, ou “Senha invalida.”, se um ou mais requisitos não forem atendidos.
 
 
-- Exemplos de Entrada 	              Exemplos de Saída
-
-- Digital Innovation One		Senha invalida.
-
-- AbcdEfgh99				Senha valida.
-
-- DigitalInnovationOne123		Senha valida.
-
-- Digital Innovation One 123		Senha invalida.
-
-- Aass9				Senha invalida.
-
-- Aassd9				Senha valida.
+| 	Exemplos de Entrada		|             Exemplos de Saída		|
+| ------------------------------------ |:-------------------------------------------:|
+| Digital Innovation One		|		Senha invalida.		|
+| AbcdEfgh99				|		Senha valida.			|
+| DigitalInnovationOne123		|		Senha valida.			|
+| Digital Innovation One 123		|		Senha invalida.		|
+| Aass9				|		Senha invalida.		|
+| Aassd9				|		Senha valida.			|
 
