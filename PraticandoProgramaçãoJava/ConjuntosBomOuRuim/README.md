@@ -11,14 +11,14 @@
 - Para cada caso de teste, você deverá imprimir "Conjunto Bom", ou "Conjunto Ruim", conforme explicado acima.
 
 
-- Exemplos de Entrada 	Exemplos de Saída
-
--	3		Conjunto Ruim
-- 	abc		Conjunto Bom	
--	dae
--	abcde
--	2
--	abc
--	def
--	0
+| 	Exemplos de Entrada	| 	Exemplos de Saída	|
+| ---------------------------- |:----------------------------:|
+|		3		|	Conjunto Ruim		|
+| 		abc		|	Conjunto Bom		|	
+|		dae		|				|
+|		abcde		|				|
+|		2		|				|	
+|		abc		|				|
+|		def		|				|
+|		0		|				|	
 
