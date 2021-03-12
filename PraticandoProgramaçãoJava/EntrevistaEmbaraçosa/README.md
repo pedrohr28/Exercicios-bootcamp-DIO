@@ -11,21 +11,14 @@
 - Para cada caso de teste, escreva a palavra devidamente corrigida. Analise os exemplos para verificar o padrão, de modo a consertar todos os casos.
 
 
-- Exemplos de Entrada 	Exemplos de Saída
-
-- sanduicheiche	sanduiche
-
-- barrilarril		barril
-
-- ratoato		rato
-
-- sol			sol
-
-- coliseueu		coliseu
-
-- queijoijo		queijo
-
-- astroastro		astro
-
-- a			a
+| 	Exemplos de Entrada	| 	Exemplos de Saída	|
+| ---------------------------- |:----------------------------:|
+| 	sanduicheiche		|	sanduiche		|
+|	barrilarril		|	barril			|
+| 	ratoato		|	rato			|
+| 	sol			|	sol			|
+| 	coliseueu		|	coliseu		|
+| 	queijoijo		|	queijo			|
+| 	astroastro		|	astro			|
+| 	a			|	a			|	
 
