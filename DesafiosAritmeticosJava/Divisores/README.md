@@ -13,8 +13,7 @@
 - Seu programa deve produzir uma única linha. Caso exista pelo menos um número n para os quais A, B, C e D façam sentido, a linha deve conter o menor n possível. Caso contrário, a linha deve conter -1.
 
 
-- Exemplos de Entrada 	              Exemplos de Saída
-
-- 2 12 8 2				4		
-
-- 3 4 60 105				6
+ |Exemplos de Entrada 	        |       Exemplos de Saída      |
+ | --------------------------- |:----------------------------:|
+ |  2 12 8 2			|	     4			 |
+ |  3 4 60 105			|	     6			 |
