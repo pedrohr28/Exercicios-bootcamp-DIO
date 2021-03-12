@@ -9,14 +9,14 @@
 - O tamanho da maior subsequência comum entre as duas Strings.
 
 
-- Exemplos de Entrada 	Exemplos de Saída
-
-- abcdef		2
-- cdofhij		1
-- TWO			0
-- FOUR			7
-- abracadabra
-- open
-- Hey This java is hot
-- Java is a new paradigm
+| 	Exemplos de Entrada	| 	Exemplos de Saída	|
+| ---------------------------- |:----------------------------:|
+| 	abcdef			|		2		|
+| 	cdofhij		|		1		|
+| 	TWO			|		0		|
+| 	FOUR			|		7		|
+| 	abracadabra		|				|
+| 	open			|				|	
+|	Hey This java is hot	|				|
+| 	Java is a new paradigm	|				|
 
