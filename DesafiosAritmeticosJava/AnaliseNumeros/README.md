@@ -8,11 +8,11 @@
 - Exiba a mensagem conforme o exemplo de saída abaixo, sendo uma mensagem por linha e não esquecendo o final de linha após cada uma.
 
 
-- Exemplos de Entrada 	              Exemplos de Saída
-
--  -5					3 valor(es) par(es)
--   0					2 valor(es) impar(es)
--  -3					1 valor(es) positivo(s)
--  -4					3 valor(es) negativo(s)
--  12				
+|	Exemplos de Entrada		| 	    Exemplos de Saída		|
+| ------------------------------------ |:-----------------------------------:|
+|		5			|	3 valor(es) par(es)		|
+|   		0			|	2 valor(es) impar(es)		|
+|  		-3			|	1 valor(es) positivo(s)	|
+|  		-4			|	3 valor(es) negativo(s)	|
+|  		12			|					|
 
