@@ -8,9 +8,9 @@
 ##### Saída
 - Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
 
-- Exemplos de Entrada 	Exemplos de Saída
-
--       8                   1
-- 		             3
-- 		             5
-- 		             7
+| 	Exemplos de Entrada		| 	Exemplos de Saída	|
+| ------------------------------------ |:---------------------------:|
+|      	 8			|            1			|
+| 		          		|	     3			|
+| 		             		|	     5			|
+| 		                       |            7			|
