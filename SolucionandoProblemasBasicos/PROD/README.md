@@ -9,8 +9,8 @@
 - Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaço em branco antes e depois da igualdade.
 
 
-- Exemplos de Entrada 	Exemplos de Saída
-
--       3
--       9                 PROD = 27
+| 	Exemplos de Entrada	| 	Exemplos de Saída	|
+| ---------------------------- |:----------------------------:|
+|       	3		|				|
+|      	9           	|      PROD = 27		|
 
