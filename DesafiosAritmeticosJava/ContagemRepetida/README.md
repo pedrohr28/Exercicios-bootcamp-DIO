@@ -10,6 +10,7 @@
 
 
  | Exemplos de Entrada 	|         Exemplos de Saída    |
+ | --------------------------- |:----------------------------:|
  |	7   			|	4 aparece 1 vez(es)	|	
  |	8			|	8 aparece 2 vez(es)	|
  |	10			|	10 aparece 3 vez(es)	|
